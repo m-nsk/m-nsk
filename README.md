@@ -1,3 +1,9 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=m-nsk&show_icons=true&hide_rank=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-</p>
+<!-- <div align="center"> -->
+
+## M. S. Kung
+AI & Software Engineer • Full‑Stack & Backend Systems • Product  
+CS + Math, Ling @ UNC  
+*Cisco • Credit Karma • ACCIDDA • UNC School of Medicine*
+
+[![Website](https://img.shields.io/badge/Website-minjae.xyz-0ea5e9?style=flat-square)](https://minjae.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Minjae%20Kung-2563eb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjae‑kung)
